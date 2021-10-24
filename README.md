@@ -41,12 +41,12 @@ https://2d03lw.janjua.pw:8088/live/aovivotudo_premier4/playlist.m3u8?vidictid=18
 #EXTM3U 
 
 #EXTINF:-1, tvg-logo=" PREMIER 5 SD 
-
+https://2202lw.janjua.pw:8088/live/aovivotudo_premier5/playlist.m3u8?id=89929&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
 
 #EXTM3U 
 
-#EXTINF:-1, tvg-logo=" PREMIER 5 HD 
-
+#EXTINF:-1, tvg-logo=" PREMIER 5 HD
+https://2202lw.janjua.pw:8088/live/aovivotudo_premier5/playlist.m3u8?vidictid=189248806475&id=89929&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
 
 #EXTM3U 
 
@@ -56,7 +56,7 @@ https://2202lw.janjua.pw:8088/live/aovivotudo_premier6/playlist.m3u8?id=89930&pk
 #EXTM3U 
 
 #EXTINF:-1, tvg-logo=" PREMIER 7 SD 
-
+https://2203.janjua.pw:8088/live/aovivotudo_premier3/playlist.m3u8?id=89927&pk=c609d41d6ade1f3d61995d9ac0863852bebf548852318c3a298941ff7f7d7a5e
 
 #EXTM3U 
 
